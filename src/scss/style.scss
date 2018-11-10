@@ -1,0 +1,7 @@
+$bgColor: black;
+$color: white;
+
+body {
+    background: $bgColor;
+    $color: $color;
+}
